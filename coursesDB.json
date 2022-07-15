@@ -1,0 +1,106 @@
+[{
+  "_id": 1,
+  "name": "Node & ExpressJS",
+  "description": "Học Back-end với Node & ExpressJS framework, hiểu các khái niệm khi làm Back-end và xây dựng RESTful API cho trang web.",
+  "image": "http://img.youtube.com/vi/z2f7RHgvddc/sddefault.jpg",
+  "videoId": "z2f7RHgvddc",
+  "level": "Trình độ trung bình",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657266134240"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657423574759"
+    }
+  },
+  "slug": "node-and-expressjs",
+  "__v": 0,
+  "deletedAt": {
+    "$date": {
+      "$numberLong": "1657423559427"
+    }
+  }
+},{
+  "_id": 2,
+  "name": "HTML, CSS từ Zero đến Hero",
+  "description": "Để học web Front-end chúng ta luôn bắt đầu với ngôn ngữ HTML và CSS, đây là 2 ngôn ngữ có mặt trong mọi website trên internet. Dù bạn có theo Back-end thì công việc của bạn nhiều khi vẫn cần phải ghép dữ liệu với HTML, CSS.",
+  "image": "http://img.youtube.com/vi/R6plN3FvzFY/sddefault.jpg",
+  "videoId": "R6plN3FvzFY",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657266233765"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657266233765"
+    }
+  },
+  "slug": "html-css-tu-zero-den-hero",
+  "__v": 0
+},{
+  "_id": 3,
+  "name": "Lập Trình JavaScript Cơ Bản",
+  "description": "Có rất nhiều ngôn ngữ để bạn có thể làm việc với Back-end, tuy nhiên bạn không cần phải học tất cả. Bạn chỉ cần tập trung vào 1 ngôn ngữ là có thể làm việc tốt. Tại đây chúng ta sẽ bắt đầu với ngôn ngữ lập trình Javascript.",
+  "image": "http://img.youtube.com/vi/0SJE9dYdpps/sddefault.jpg",
+  "videoId": "0SJE9dYdpps",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657266295006"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657266295006"
+    }
+  },
+  "slug": "lap-trinh-javascript-co-ban",
+  "__v": 0
+},{
+  "_id": 4,
+  "name": "Responsive Với Grid System",
+  "description": "Trong khóa này chúng ta sẽ học về cách xây dựng giao diện web responsive với Grid System, tương tự Bootstrap 4.",
+  "image": "http://img.youtube.com/vi/uz5LIP85J5Y/sddefault.jpg",
+  "videoId": "uz5LIP85J5Y",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657266352525"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657266352525"
+    }
+  },
+  "slug": "responsive-voi-grid-system",
+  "__v": 0
+},{
+  "_id": 5,
+  "name": "Xây Dựng Website với ReactJS",
+  "description": "Khóa học ReactJS từ cơ bản tới nâng cao, kết quả của khóa học này là bạn có thể làm hầu hết các dự án thường gặp với ReactJS. Cuối khóa học này bạn sẽ sở hữu một dự án giống Tiktok.com, bạn có thể tự tin đi xin việc khi nắm chắc các kiến thức được chia sẻ trong khóa học này.",
+  "image": "http://img.youtube.com/vi/x0fSBAgBrOQ/sddefault.jpg",
+  "videoId": "x0fSBAgBrOQ",
+  "level": "Trình độ cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657266391646"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657266391646"
+    }
+  },
+  "slug": "xay-dung-website-voi-reactjs",
+  "__v": 0
+}]

@@ -1,0 +1,7 @@
+- Analysis: 
+	+ Xử lý tách 1 đoạn text từ đầu vào thành các terms phù hợp để sử dụng trong việc đánh chỉ mục ngược
+	+ Phân tích, chuẩn hóa các terms này để thu đc data mong muốn
+- Analyzer là sự kết hợp của 3 functions sau: 
+	+ Character filters: xử lý chuỗi đầu vào trước khi được tách từ
+	+ Tokenizer: tách từ theo khoảng trắng hay dấu chấm câu, các từ được tách ra này gọi là term
+	+ Token filters: để "làm mượt" thêm, ví dụ như việc chuyển các ký tự hoa về ký tự thường (lowercase) hay loại bỏ các từ dừng
